@@ -1,4 +1,4 @@
-![image](123.png)
+![image](https://github.com/GZT2023/Implicit_watermark_detection/blob/main/123.png)
 =============== 隐式水印检测工具 ===============
 
 
