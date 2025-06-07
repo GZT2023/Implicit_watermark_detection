@@ -57,7 +57,7 @@ AI炼丹检测图片防数据投毒工具，自动筛选文件夹图片，分类
    
    
    
-![image](/123.png)
+![image](123.png)
    
    
 =============== Implicit Watermark Detection Tool ===============
